@@ -1,4 +1,4 @@
-# test1 solution - martin
+# test solution - martin
 API testing using SoupUI - https://www.soapui.org/downloads/latest-release/.
 
 Task
